@@ -1,4 +1,4 @@
-﻿<properties 
+<properties 
    pageTitle="Java で Azure Redis Cache を使用する方法" 
    description="Java を使用して Azure Redis Cache を使用します" 
    services="redis-cache" 

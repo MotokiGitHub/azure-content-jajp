@@ -1,4 +1,4 @@
-﻿<properties 
+<properties 
    pageTitle="Python で Azure Redis Cache を使用する方法" 
    description="Python を使用して Azure Redis Cache を使用します" 
    services="redis-cache" 

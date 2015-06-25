@@ -1,4 +1,4 @@
-﻿<properties 
+<properties 
 	pageTitle="Azure Redis Cache のサンプル" 
 	description="Azure Redis Cache の使用方法について説明します" 
 	services="redis-cache" 

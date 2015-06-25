@@ -1,4 +1,4 @@
-﻿<properties 
+<properties 
  pageTitle="Azure PowerShell を使用した Azure Redis Cache の管理" 
  description="Azure PowerShell を使用して Azure Redis Cache の管理タスクを実行する方法について説明します。" 
  services="redis-cache" 
@@ -26,7 +26,7 @@
 
 - Windows PowerShell、Version 3.0 または 4.0。Windows PowerShell のバージョンを確認するには、「`$PSVersionTable`」と入力し、`PSVersion` の値が 3.0 または 4.0 であることを確認します。互換性のあるバージョンをインストールするには、「[Windows Management Framework 3.0 ](http://www.microsoft.com/download/details.aspx?id=34595)」または「[Windows Management Framework 4.0](http://www.microsoft.com/download/details.aspx?id=40855)」を参照してください。
 	
-- Azure PowerShell バージョン 0.8.0 以降。最新バージョンをインストールして、Azure サブスクリプションに関連付けるには、[Microsoft Azure PowerShell のインストールおよび構成方法](powershell-install-configure.md)に関するページを参照してください。
+- Azure PowerShell バージョン 0.8.0 以降。最新バージョンをインストールして、Azure サブスクリプションに関連付けるには、[Microsoft Azure PowerShell のインストールおよび構成方法](../powershell-install-configure.md)に関するページを参照してください。
 
 このチュートリアルは、Windows PowerShell を初めて使うユーザーを対象としています。Windows PowerShell の詳細については、[Windows PowerShell の概要](http://technet.microsoft.com/library/hh857337.aspx)に関するページを参照してください。
 
